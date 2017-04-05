@@ -3,6 +3,7 @@
 """
     Usage:
         search <your_query>
+        search <your-query-with-two-plus-words>
 """
 
 from docopt import docopt,DocoptExit
