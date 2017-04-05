@@ -21,7 +21,7 @@ To use this project, follow these steps:
 Run tests with `python tests.py`
 
 ## Example Search Results
-```shell
+```bash
 
     Usage:
         search <your_query>
@@ -29,7 +29,7 @@ Run tests with `python tests.py`
 
 GSA$$$
 ```
-```shell
+```bash
 
     Usage:
         search <your_query>
@@ -37,7 +37,7 @@ GSA$$$
 
 GSA$$$search Andela
 ```
-```shell
+```bash
     Usage:
         search <your_query>
         search <your-query-with-two-plus-words>
