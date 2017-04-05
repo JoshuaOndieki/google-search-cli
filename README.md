@@ -143,7 +143,6 @@ GSA$$$search Andela
 | https://www.google.com/mymaps/viewer?mid=1deQ151L73LZlRacF1oniE33-zPk&hl=en_US |
 +--------------------------------------------------------------------------------+
 
-
 ```
 
 ## License: MIT
