@@ -59,6 +59,9 @@ class GSA(cmd.Cmd):
         """Usage: search <your_query>"""
         search_term=arg['<your_query>']
         search_data=gsa.search(search_term)
+        if isinstance(search_data,str):
+            print(search_data)
+            exit()
         kind_data=search_data['kind']
         queries_data=search_data['queries']
         search_info=search_data['searchInformation']
