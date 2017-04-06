@@ -150,4 +150,4 @@ GSA$$$search Andela
 ## Further Reading
 
 - [Docopt](https://github.com/docopt/docopt)
-- [Google APIs](https://googleapis.com)
+- [Google APIs](https://developers.google.com/custom-search/json-api/v1/overview)
